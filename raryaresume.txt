@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fresher Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: square;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>REPALA SUMEDHAARYA</h1>
+        <p><strong>Email:</strong>sumedharepala01@gmail.com | <strong>Phone:</strong> 9398619572 | <strong>Location:</strong> Hyderabad,India</p>
+        
+        <h2>Summary</h2>
+        <p>A highly motivated and detail-oriented fresher with a strong foundation in [Your Field]. Passionate about learning and applying new skills to real-world projects.</p>
+        <h2>Education</h2>
+          <ul>
+            <li><b>PRIEST university,thanjavur,Tamil nadu</b></li>
+            <p>Bacheoler of Technology- computer science and engineering</p>
+            <li><b>KLN Junior college,miryalaguda</b></li>
+            <P>Telangana State board of intermediate Education</P>
+            </ul>
+        
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming Languages: HTML, CSS, JavaScript</li>
+            <li>Responsive Web Design</li>
+            <li>Problem-Solving</li>
+            <li>Communication and Teamwork</li>
+            <li>Learning softskills on a realiable platform</li>
+        </ul>
+        
+        <h2>Achievements & Certifications</h2>
+        <ul>
+            <li>completed html projects - FreeCodeCamp</li>
+            <li>curiosity summit-2018</li>
+        </ul>
+        
+        <h2>Accomplishments</h2>
+        <ul>
+            <li>Developed a personal portfolio website using HTML, CSS, and JavaScript.</li>
+            <li>Pursuing multiple online courses on web development.</li>
+            <li>Led event management operations as  an independent bussiness owner,honing skills in communication,team leadership,and project coordination,negotiating key strengths for soft development and collabartive projects</li>
+        </ul>
+        
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Portfolio Website:</strong> Designed a responsive personal portfolio website to showcase skills and projects.</li>
+        </ul>
+        
+        <h2>Contact Details</h2>
+        <p><strong>Email:</strong> sumedharepala01@gmail.com</p>
+        <p><strong>LinkedIn:</strong>www.linkedin.com/in/
+sumedha-arya-repala-b22719350</p>
+    </div>
+</body>
+</html>
